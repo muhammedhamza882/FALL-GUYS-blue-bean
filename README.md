@@ -26,6 +26,10 @@ A custom 3D model of a Fall Guys–style blue bean character, created in **Blend
 
 ---
 
+File Link: https://drive.google.com/drive/folders/1IvNDqYOTWCahr4PLkLJztQy2SQchnJNa?usp=drive_link
+
+---
+
 ## 📜 License
 No license specified. This model is provided for viewing purposes only. Do not use, redistribute, or modify without permission.
 
