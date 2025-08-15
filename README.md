@@ -1,6 +1,6 @@
 # Fall Guys Blue Bean (Blender Model)
 
-A custom 3D model of a Fall Guys–style blue bean character, created in **Blender**.
+A custom 3D model of a Fall Guys–style blue bean character, created in **Blender**. File link attatched to README at bottom
 
 ---
 
